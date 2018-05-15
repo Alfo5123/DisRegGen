@@ -16,8 +16,8 @@ This is a pytorch implementation of the paper [Discriminative Regularization for
 
 Original                  |  VAE                   | DisRegGen             |
 :-------------------------:|:-------------------------: |:-------------------------:
-![](results/sample_cifar_99.png)  |  ![](results/sample_cifar_99.png) | ![](results/sample_cifar_99.png)
-![](results/sample_svhn_99.png)  |  ![](results/sample_cifar_99.png) | ![](results/sample_cifar_99.png)
+![](results/sample_original_cifar.png)  |  ![](results/sample_vae_cifar_99.png) | ![]()
+![](results/sample_original_svhn.png)  |  ![](results/sample_vae_svhn_99.png) | ![]()
 
 
 ## License
