@@ -9,6 +9,7 @@ This is a pytorch implementation of the paper [Discriminative Regularization for
 - [Unsupervised  representation  learning  with  deep  convolutional  generative  adversarial  networks](https://arxiv.org/pdf/1511.06434.pdf)
 - [Very deep convolutional  networks  for  large-scale  image  recognition](https://arxiv.org/pdf/1409.1556.pdf)
 - [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://cs.stanford.edu/people/jcjohns/papers/eccv16/JohnsonECCV16.pdf)
+- [Deconvolution and Checkerboard Artifacts](https://distill.pub/2016/deconv-checkerboard/)
 
 
 ## Results
